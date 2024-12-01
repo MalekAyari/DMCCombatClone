@@ -1,0 +1,92 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity specific folders
+/Assets/StreamingAssets/UnityShaderCompiler/
+
+# User-specific files
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+
+# OS or Editor-specific
+.DS_Store
+*.swp
+*.idea/
+*.vscode/
+*.tmp
+*.bak
+*.log
+*.vs/
+
+# Compiled files
+*.dll
+*.exe
+*.ilk
+*.lib
+*.pdb
+*.mdb
+*.obj
+*.pch
+*.pyc
+*.pyo
+*.idb
+*.class
+*.gradle
+*.dex
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.gzip
+
+# Images
+*.tga
+*.psd
+
+# Audio
+*.mp3
+*.ogg
+*.wav
+
+# HDRP specific files
+/Assets/_Shaders/Editor/
+
+# Collaborate and cache files
+/[Cc]ollab/
+.vsconfig
+/UnityCollaborate/
+
+# Temporary local development files
+.localhistory/
+
+# Exclude auto-generated Unity meta files, but include manually created .meta files
+!*.meta
+
+# Include build and exported projects if any
+!Build/
+!Exports/
+
+# Rider project files
+.idea/
+*.iml
+*.iws
+
+# Additional HDRP-specific settings or custom folders
+/Assets/_HDRP_Configs/

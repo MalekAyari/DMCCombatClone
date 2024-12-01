@@ -1,0 +1,4 @@
+repository "U6Test@MalekAyari@cloud"
+  path "/"
+    br "/main"
+    co "/main"
